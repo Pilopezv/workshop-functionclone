@@ -14,4 +14,4 @@ config:
   DBPWD: ClavE.012356,
   DBSVC: functionadb_high
   DBUSER: ADMIN
-  TNS_ADMIN: /tmp/pilopezv
+  TNS_ADMIN: /tmp/dbwallet
