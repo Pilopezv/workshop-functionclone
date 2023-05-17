@@ -8,7 +8,7 @@ entrypoint: /python/bin/fdk /function/func.py handler
 memory: 2048
 timeout: 300
 config:
-  TOPIC_OCID: ocid1.onstopic.oc1.sa-santiago-1.aaaaaaaal2tnuwokwehmkh6a2h7tyoqdw6djwskja6yk6z2ezrkvsstaeuxa
+  TOPIC_OCID: ocid1.compartment.oc1..aaaaaaaa5pkmkfmevnaw23nhkxcfd7jxkpq3uqht5dmfvs2r42o7ce2h57cq
   ADB_OCID: ocid1.autonomousdatabase.oc1.sa-santiago-1.anzwgljrwv7fuuqadwaf57chq52uh4yownockw52gmu7ashhfgjrifkbhhba
   COMPANY: BancodeChile3
   DBPWD: ClavE.012356,
